@@ -1,0 +1,12 @@
+{
+  "name": "comprueba-que",
+  "version": "1.0.0",
+  "description": "Testing humanizado",
+  "main": "comprueba-que.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["test","testing"],
+  "author": "allnulled",
+  "license": "WTFPL"
+}
